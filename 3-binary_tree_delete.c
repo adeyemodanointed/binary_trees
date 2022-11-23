@@ -4,7 +4,7 @@
 /**
  * binary_tree_delete - function to delete binary tree
  * @tree: pointer to root node
- * 
+ *
  * Return: None
  */
 
